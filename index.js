@@ -8,12 +8,9 @@ const time = getTime()
 console.log(time)
 console.log(chalk.blue(time))
 
-// const path = require('path');
-
 // console.log(chalk.blue('Название файла', path.basename(__filename)))
 // console.log(chalk.green('Название дериктории', path.basename(__dirname)))
 // console.log(chalk.red('Путь дериктории', path.dirname(__filename)))
-
 
 
 // ======= own server
